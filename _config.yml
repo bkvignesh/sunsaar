@@ -4,4 +4,4 @@ url: https://sunsaar.in  # Replace with your domain
 baseurl: ""  # Leave empty for root
 
 remote_theme: no-style-please
-theme_mode: "dark"
+theme_mode: dark
