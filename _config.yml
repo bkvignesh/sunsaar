@@ -4,8 +4,8 @@ description: >-
   A personal blog powered by Jekyll and Chirpy
 url: "https://sunsaar.in"
 baseurl: ""
-theme: jekyll-theme-chirpy
-theme_mode: dark
+theme: jekyll-dash
+# theme_mode: dark
 
 
 # Sidebar navigation (for docs-style layout)
