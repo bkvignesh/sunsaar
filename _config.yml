@@ -1,6 +1,6 @@
 title: My Minimal Blog
 description: A clean blog built with Jekyll and GitHub Actions
-url: https://yourdomain.com  # Replace with your domain
+url: https://sunsaar.in  # Replace with your domain
 baseurl: ""  # Leave empty for root
 
 theme: jekyll-theme-minimal
