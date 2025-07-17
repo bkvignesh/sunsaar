@@ -5,3 +5,18 @@ description: >-
 url: "https://sunsaar.in"
 baseurl: ""
 theme_mode: dark
+
+# Sidebar navigation (for docs-style layout)
+sidebar:
+  nav:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+
+# Tab bar configuration matching the docs website look
+tab_bar:
+  - title: "Overview"
+    url: "/docs/overview/"
+  - title: "Getting Started"
+    url: "/docs/getting-started/"
