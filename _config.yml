@@ -1,7 +1,7 @@
-title: My Minimal Blog
-description: A clean blog built with Jekyll and GitHub Actions
+title: SunSaar
+description: A clean blog about Solar Energy and Sustainability
 url: https://sunsaar.in  # Replace with your domain
 baseurl: ""  # Leave empty for root
 
 theme: jekyll-theme-minimal
-theme_mode: "dark"
+theme_mode: dark
