@@ -1,0 +1,6 @@
+- title: Home
+  url: /
+- title: Blog
+  url: / # or /posts/ if you eventually isolate posts
+- title: About
+  url: /about/

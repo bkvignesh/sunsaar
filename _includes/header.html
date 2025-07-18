@@ -1,0 +1,19 @@
+<header class="site-header">
+  <nav class="nav">
+    {% assign links = site.data.nav %}
+    {% for item in links %}
+      <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+    <button id="mode-toggle" aria-label="Toggle dark mode">🌙</button>
+  </nav>
+</header>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D84Q9BCVTK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D84Q9BCVTK');
+</script>

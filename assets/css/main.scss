@@ -1,0 +1,27 @@
+/* 1. Light defaults */
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+  --accent: #008080;
+}
+
+/* 2. Dark palette */
+:root.dark {
+  --bg: #161616;
+  --fg: #e5e5e5;
+  --accent: #33cfa1;
+}
+
+/* 3. Apply */
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+}
+a { color: var(--accent); }
+.nav-link { margin-right: 1rem; }
+
+/* Optional: honour user OS preference the first time */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light){ @extend :root.dark; }
+}
