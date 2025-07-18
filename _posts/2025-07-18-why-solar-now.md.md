@@ -6,6 +6,13 @@ categories: [India, Rooftop_Solar]
 tags: [solar, rooftop, policy, economics]
 ---
 
+<!-- Header Navigation -->
+<nav class="site-nav">
+  {% for item in site.data.nav %}
+    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  {% endfor %}
+</nav>
+
 ### An Analytical Look at India’s Rooftop Solar Opportunity in 2025–26
 
 India is at a pivotal moment in its energy transition. With a national solar capacity of nearly [98 GW as of December 2024](https://mnre.gov.in/en/physical-progress/), and rooftop installations accelerating due to targeted incentives, 2025–26 marks a strategic window for solar adoption. This post outlines why the current period represents an optimal intersection of policy, economics, and technology for residential and commercial solar uptake.
@@ -40,7 +47,7 @@ The Government of India’s [PM Surya Ghar: Muft Bijli Yojana](https://www.india
 - **Online portal**: [National Portal for Rooftop Solar](https://solarrooftop.gov.in) for application and vendor selection
 - **Target**: [10 million homes by FY 2026–27](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2111106)
 
-[Over 1 million homes](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2111106) installed rooftop systems under this scheme within the first year, contributing over 3 GW of capacity.
+[Over 1 million homes](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2111106) installed rooftop systems under this scheme...
 
 ---
 
@@ -159,3 +166,9 @@ Entities considering rooftop solar — whether residential, commercial, or insti
 - [Down to Earth – Solar Cost Trends](https://www.downtoearth.org.in/renewable-energy/from-rs-200-to-rs-9-plummeting-solar-costs-could-spark-indias-clean-energy-revolution)
 - [Freyr Energy – Payback Economics](https://freyrenergy.com/why-solar-rooftop-system-is-good-investment-in-2024/)
 - [PV Tech – Manufacturing Expansion](https://www.pv-tech.org/india-almost-trebles-cell-manufacturing-capacity-25gw-12-months-march-2025/)
+
+<!-- Back to Home Link -->
+<hr>
+<p>
+  <a href="{{ '/' | relative_url }}">← Back to Home</a>
+</p>
