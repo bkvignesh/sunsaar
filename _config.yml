@@ -3,5 +3,6 @@ description: A clean blog about Solar Energy and Sustainability
 url: https://sunsaar.in  # Replace with your domain
 baseurl: ""  # Leave empty for root
 
-remote_theme: no-style-please
-theme_mode: dark
+remote_theme: riggraz/no-style-please
+
+plugins: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme]
