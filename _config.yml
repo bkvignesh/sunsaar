@@ -6,6 +6,7 @@ baseurl: ""  # Leave empty for root
 remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
+  date_format: "%d-%m-%Y"
 
 sass:
   load_paths:
