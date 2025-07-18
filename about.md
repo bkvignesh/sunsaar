@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "About Us"
+title: "About SunSaar"
 permalink: /about/
 ---
 
-# About SunSaar
+<!-- # About SunSaar -->
 
 SunSaar is an independent knowledge hub demystifying **rooftop solar in India**.  
 We publish data-driven insights, installation guides, and policy explainers so homeowners can make informed decisions.
