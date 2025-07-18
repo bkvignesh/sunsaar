@@ -28,7 +28,7 @@ This disparity indicates that despite national growth, a significant portion of 
 
 ---
 
-## 2. Policy Incentives: PM Surya Ghar Scheme
+## 2. Policy Incentives: PM Surya Ghar Scheme ([Unlock Free Electricity]({{ '/2025-07-18-unlock-free-electricity/' | relative_url }}))
 
 The Government of India’s [PM Surya Ghar: Muft Bijli Yojana](https://www.india.gov.in/spotlight/pm-surya-ghar-muft-bijli-yojana), launched in 2024, is central to the current rooftop growth:
 
