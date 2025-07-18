@@ -8,9 +8,9 @@ title: Home
   {% endfor %}
 </nav>
 
-# SunSaar: Clean Solar Energy for India
+## Clean Solar Energy for India
 
-## Latest Posts
+### Latest Posts
 
 {% for post in site.posts limit: 5 %}
 - <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
