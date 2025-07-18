@@ -6,13 +6,6 @@ categories: [India, Rooftop_Solar]
 tags: [solar, rooftop, policy, economics]
 ---
 
-<!-- Header Navigation -->
-<nav class="site-nav">
-  {% for item in site.data.nav %}
-    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-  {% endfor %}
-</nav>
-
 ### An Analytical Look at India’s Rooftop Solar Opportunity in 2025–26
 
 India is at a pivotal moment in its energy transition. With a national solar capacity of nearly [98 GW as of December 2024](https://mnre.gov.in/en/physical-progress/), and rooftop installations accelerating due to targeted incentives, 2025–26 marks a strategic window for solar adoption. This post outlines why the current period represents an optimal intersection of policy, economics, and technology for residential and commercial solar uptake.
