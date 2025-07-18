@@ -7,5 +7,8 @@ remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
 
+sass:
+  load_paths:
+    - assets/css
 
 plugins: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme]
