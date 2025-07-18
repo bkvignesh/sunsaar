@@ -1,23 +1,21 @@
-<main class="wrapper">
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title | default: site.title }}</title>
-        {%- comment -%}  load site CSS  {%- endcomment -%}
-        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-        {%- if site.google_analytics -%}
-        {% include analytics.html %}
-        {%- endif -%}
-    </head>
-
-    <body>
-        {% include header.html %}
-        <main class="container">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    {%- comment -%}  load site CSS  {%- endcomment -%}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    {%- if site.google_analytics -%}
+      {% include analytics.html %}
+    {%- endif -%}
+  </head>
+  <body>
+    <div class="wrapper">
+      {% include header.html %}
+      <main class="container">
         {{ content }}
-        </main>
-
-        <script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
-    </body>
-    </html>
-</main>
+      </main>
+    </div>
+    <script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
+  </body>
+</html>
