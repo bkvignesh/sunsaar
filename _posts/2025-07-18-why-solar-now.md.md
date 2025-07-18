@@ -2,7 +2,7 @@
 layout: post
 title: "Why Solar Now?"
 date: 2025-07-18
-categories: [India, Rooftop Solar]
+categories: [India, Rooftop_Solar]
 tags: [solar, rooftop, policy, economics]
 ---
 
