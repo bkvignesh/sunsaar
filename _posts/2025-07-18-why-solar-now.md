@@ -28,7 +28,7 @@ This disparity indicates that despite national growth, a significant portion of 
 
 ---
 
-## 2. Policy Incentives: PM Surya Ghar Scheme ([Read More]({{ 'https://sunsaar.in/india/rooftop_solar/2025/07/18/unlock-free-electricity.html' | relative_url }}))
+## 2. Policy Incentives: PM Surya Ghar Scheme
 
 The Government of India’s [PM Surya Ghar: Muft Bijli Yojana](https://www.india.gov.in/spotlight/pm-surya-ghar-muft-bijli-yojana), launched in 2024, is central to the current rooftop growth:
 
@@ -159,13 +159,6 @@ Entities considering rooftop solar — whether residential, commercial, or insti
 - [Down to Earth – Solar Cost Trends](https://www.downtoearth.org.in/renewable-energy/from-rs-200-to-rs-9-plummeting-solar-costs-could-spark-indias-clean-energy-revolution)
 - [Freyr Energy – Payback Economics](https://freyrenergy.com/why-solar-rooftop-system-is-good-investment-in-2024/)
 - [PV Tech – Manufacturing Expansion](https://www.pv-tech.org/india-almost-trebles-cell-manufacturing-capacity-25gw-12-months-march-2025/)
-
-<!-- Related Post -->
-<hr>
-<h3>Related Post</h3>
-<p>
-  For an in-depth overview of the schemes available for Rooftop Solar, read our post on <a href="{{ '/2025-07-18-unlock-free-electricity/' | relative_url }}">PM Surya Ghar</a>.
-</p>
 
 <!-- Back to Home Link -->
 <hr>

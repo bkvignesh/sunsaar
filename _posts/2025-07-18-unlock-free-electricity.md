@@ -107,13 +107,6 @@ If you’re a homeowner in India, now is the perfect time to go solar. Don’t m
 
 ---
 
-<!-- Related Post -->
-<hr>
-<h3>Related Post</h3>
-<p>
-  For an in-depth market overview and policy insights, read our post on <a href="{{ '/2025-07-18-why-solar-now/' | relative_url }}">Why Solar Now?</a>.
-</p>
-
 <!-- Back to Home Link -->
 <hr>
 <p>
