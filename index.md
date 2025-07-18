@@ -15,3 +15,14 @@ title: Home
 
 # Welcome to SunSaar
 ## This is an upcoming blog about solar energy in India
+
+---
+
+## ✍️ Latest Posts
+
+{% for post in site.posts limit: 5 %}
+- [{{ post.title }}]({{ post.url | relative_url }}) <br>
+  <small><code>{{ post.date | date: "%b %d, %Y" }}</code></small>
+{% endfor %}
+
+---
