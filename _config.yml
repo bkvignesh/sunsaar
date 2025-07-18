@@ -4,5 +4,8 @@ url: https://sunsaar.in  # Replace with your domain
 baseurl: ""  # Leave empty for root
 
 remote_theme: riggraz/no-style-please
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+
 
 plugins: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme]
