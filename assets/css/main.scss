@@ -26,8 +26,8 @@ a { color: var(--accent); }
   :root:not(.light){ @extend :root.dark; }
 }
 
-.wrapper{
-  max-width: 800px;   /* keeps text readable on big screens */
-  margin: 0 auto;
-  padding: 1.5rem;
-}
+// .wrapper{
+//   max-width: 800px;   /* keeps text readable on big screens */
+//   margin: 0 auto;
+//   padding: 1.5rem;
+// }
