@@ -14,9 +14,6 @@ title: Home
 </script>
 
 # Clean Solar Energy for India
-
----
-
 ## ✍️ Latest Posts
 
 {% for post in site.posts limit: 5 %}
